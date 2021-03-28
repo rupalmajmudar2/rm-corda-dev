@@ -8,7 +8,6 @@ import net.corda.core.transactions.LedgerTransaction;
 
 import static net.corda.core.contracts.ContractsDSL.requireSingleCommand;
 import static net.corda.core.contracts.ContractsDSL.requireThat;
-import java.util.List;
 
 // ************
 // * Contract *
